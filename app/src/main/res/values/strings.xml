@@ -1,0 +1,7 @@
+<resources>
+
+        <string name="app_name">LE1_RODIS</string>
+        <string name="Hello_world">Hello world!</string>
+        <string name="menu_settings">Settings</string>
+
+    </resources>
